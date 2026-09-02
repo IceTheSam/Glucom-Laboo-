@@ -1,2 +1,2 @@
 # Glucom-Laboo-
-Trabalho da Marcinha APS
+Trabalho de APS para java
